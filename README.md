@@ -2,7 +2,6 @@
 This is the design of Portfolio website 
 ![portfolio](https://github.com/UMAR010FAROOQ/Portfolio-Design/assets/124328232/d3d6d944-e8a1-415e-b07f-16329e2a6d9b)
 
-All recourse include in folder
 Overview of website
 
 # Home Page
@@ -20,5 +19,7 @@ Overview of website
 # Contact Page
 ![portfolio contact desktop](https://github.com/UMAR010FAROOQ/Portfolio-Design/assets/124328232/39f61d6e-414f-4c23-8202-98c990769d24)
 
-#Night Mode
+# Night Mode
 ![portfolio home desktop night](https://github.com/UMAR010FAROOQ/Portfolio-Design/assets/124328232/fd56eae7-18e7-4b70-ab34-748875d27b4c)
+
+**All recourse include in folder**
